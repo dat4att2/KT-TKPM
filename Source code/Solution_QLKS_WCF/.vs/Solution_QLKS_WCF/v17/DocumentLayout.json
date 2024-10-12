@@ -1,0 +1,975 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\bus\\bus_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\bus\\bus_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\iqlks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\iqlks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\iqlks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\iqlks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\qlksdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\qlksdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\bus\\bus_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\bus\\bus_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\rp_solanthue_chart_kcngay.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\rp_solanthue_chart_kcngay.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmchange_info_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmchange_info_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\xemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\xemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmchange_info_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmchange_info_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frm_sua_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frm_sua_thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frm_sua_khach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frm_sua_khach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\xemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\xemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmxemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmxemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmxemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmxemdanhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmtimphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmtimphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmtimkiemluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmtimkiemluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsua_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsua_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsua_loai_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsua_loai_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsua_don_vi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsua_don_vi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmsapxeptb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmsapxeptb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmnhapdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmnhapdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmnhap_ctdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmnhap_ctdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmgoidv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmgoidv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frmcapnhapluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frmcapnhapluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frm_thue_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frm_thue_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frm_sua_phieu_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frm_sua_phieu_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\frm_sua_dich_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\frm_sua_dich_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\bus\\bus_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\bus\\bus_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\bus\\bus_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\bus\\bus_cthd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\uc\\uc_thue_km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\uc\\uc_thue_km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\uc\\uc_thue_kc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\uc\\uc_thue_kc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\uc\\uc_dat_km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\uc\\uc_dat_km.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\gui\\uc\\uc_dat_kc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\gui\\uc\\uc_dat_kc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\dataset_doanhthu_nam.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\dataset_doanhthu_nam.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\rp_luong_nam.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\rp_luong_nam.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\bus\\bus_tkhdthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\bus\\bus_tkhdthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\dataset_tienravao.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\dataset_tienravao.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\bus\\bus_thuedatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\bus\\bus_thuedatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\gui\\frm_thue_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\gui\\frm_thue_dat_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\gui\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\gui\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\employee\\gui\\frm_sua_khach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9B57A37-2A52-44F1-97E1-9E5917A755EC}|Employee\\Employee.csproj|solutionrelative:employee\\gui\\frm_sua_khach_hang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\rp_chart_tienravao_kcngay.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\rp_chart_tienravao_kcngay.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\admin\\frm_thongke_luongtienravao_kcngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1018CF7-D0DD-4772-AA5A-F5C0F7F03593}|Admin\\Admin.csproj|solutionrelative:admin\\frm_thongke_luongtienravao_kcngay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CDC2E-5CE1-4CB4-89D0-4A9035D0F35F}|Server\\Server.csproj|c:\\users\\dat4a\\onedrive\\m\u00E1y t\u00EDnh\\demo\\source code\\solution_qlks_wcf\\server\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|031911c8-6148-4e25-b1b1-44bca9a0c45c"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\QLKS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\QLKS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\Server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs",
+              "RelativeDocumentMoniker": "Service\\config.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs",
+              "RelativeToolTip": "Service\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:33:27.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "QLKS.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\QLKS.cs",
+              "RelativeDocumentMoniker": "Service\\QLKS.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\QLKS.cs",
+              "RelativeToolTip": "Service\\QLKS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:29:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs",
+              "RelativeDocumentMoniker": "Service\\config.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\config.cs",
+              "RelativeToolTip": "Service\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:40:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\Server.cs",
+              "RelativeDocumentMoniker": "Service\\Server.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Service\\Server.cs",
+              "RelativeToolTip": "Service\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:29:23.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T16:28:36.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:44:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\config.cs",
+              "RelativeDocumentMoniker": "Employee\\config.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\config.cs",
+              "RelativeToolTip": "Employee\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:42.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\Program.cs",
+              "RelativeDocumentMoniker": "Admin\\Program.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\Program.cs",
+              "RelativeToolTip": "Admin\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:37:57.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IQLKS.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\IQLKS.cs",
+              "RelativeDocumentMoniker": "Employee\\IQLKS.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\IQLKS.cs",
+              "RelativeToolTip": "Employee\\IQLKS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:23:05.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BUS_Login.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_Login.cs",
+              "RelativeDocumentMoniker": "Admin\\BUS\\BUS_Login.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_Login.cs",
+              "RelativeToolTip": "Admin\\BUS\\BUS_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:51:17.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLKSDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\QLKSDataSet.xsd",
+              "RelativeDocumentMoniker": "Admin\\QLKSDataSet.xsd",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\QLKSDataSet.xsd",
+              "RelativeToolTip": "Admin\\QLKSDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-01T09:47:38.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\config.cs",
+              "RelativeDocumentMoniker": "Admin\\config.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\config.cs",
+              "RelativeToolTip": "Admin\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:37:32.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BUS_khachhang.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_khachhang.cs",
+              "RelativeDocumentMoniker": "Employee\\BUS\\BUS_khachhang.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_khachhang.cs",
+              "RelativeToolTip": "Employee\\BUS\\BUS_khachhang.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:14.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BUS_dichvu.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_dichvu.cs",
+              "RelativeDocumentMoniker": "Employee\\BUS\\BUS_dichvu.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_dichvu.cs",
+              "RelativeToolTip": "Employee\\BUS\\BUS_dichvu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:06.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\App.config",
+              "RelativeDocumentMoniker": "Admin\\App.config",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\App.config",
+              "RelativeToolTip": "Admin\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-29T06:30:43.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQLKS.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\IQLKS.cs",
+              "RelativeDocumentMoniker": "Admin\\IQLKS.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\IQLKS.cs",
+              "RelativeToolTip": "Admin\\IQLKS.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAawBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:37:48.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rp_solanthue_chart_kcngay.rdlc",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_solanthue_chart_kcngay.rdlc",
+              "RelativeDocumentMoniker": "Admin\\rp_solanthue_chart_kcngay.rdlc",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_solanthue_chart_kcngay.rdlc",
+              "RelativeToolTip": "Admin\\rp_solanthue_chart_kcngay.rdlc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-01T07:22:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BUS_nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_nhanvien.cs",
+              "RelativeDocumentMoniker": "Admin\\BUS\\BUS_nhanvien.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_nhanvien.cs",
+              "RelativeToolTip": "Admin\\BUS\\BUS_nhanvien.cs",
+              "ViewState": "AgIAALoEAAAAAAAAAAAQwIkBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:04:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmchange_info_employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmchange_info_employee.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmchange_info_employee.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmchange_info_employee.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmchange_info_employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:21.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "xemdanhsach.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\xemdanhsach.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\xemdanhsach.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\xemdanhsach.cs",
+              "RelativeToolTip": "Admin\\GUI\\xemdanhsach.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:55.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmchange_info_employee.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmchange_info_employee.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmchange_info_employee.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmchange_info_employee.cs",
+              "RelativeToolTip": "Admin\\GUI\\frmchange_info_employee.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAA4wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:17:22.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frm_sua_thietbi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_thietbi.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frm_sua_thietbi.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_thietbi.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frm_sua_thietbi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:12.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frm_sua_khach_hang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_khach_hang.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frm_sua_khach_hang.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_khach_hang.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frm_sua_khach_hang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "xemdanhsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\xemdanhsach.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\xemdanhsach.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\xemdanhsach.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\xemdanhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:53.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmXemHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmXemHD.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmXemHD.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmXemHD.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmXemHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmXemdanhsach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmXemdanhsach.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmXemdanhsach.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmXemdanhsach.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmXemdanhsach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:49.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmtinhluong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtinhluong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmtinhluong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtinhluong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmtinhluong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmtimphong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtimphong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmtimphong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtimphong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmtimphong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:46.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmtimkiemluong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtimkiemluong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmtimkiemluong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmtimkiemluong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmtimkiemluong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:44.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmSystem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmSystem.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmSystem.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmSystem.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmSystem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:42.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmsua_phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_phong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmsua_phong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_phong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmsua_phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:39.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmsua_loai_phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_loai_phong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmsua_loai_phong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_loai_phong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmsua_loai_phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:37.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmsua_don_vi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_don_vi.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmsua_don_vi.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsua_don_vi.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmsua_don_vi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:35.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmsearch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsearch.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmsearch.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsearch.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmsearch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:34.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmsapxeptb.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsapxeptb.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmsapxeptb.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmsapxeptb.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmsapxeptb.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:33.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmnhapdichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmnhapdichvu.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmnhapdichvu.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmnhapdichvu.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmnhapdichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmnhap_ctdichvu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmnhap_ctdichvu.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmnhap_ctdichvu.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmnhap_ctdichvu.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmnhap_ctdichvu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmgoidv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmgoidv.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmgoidv.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmgoidv.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmgoidv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:25.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmChangePassword.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:23.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmcapnhapluong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmcapnhapluong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frmcapnhapluong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frmcapnhapluong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frmcapnhapluong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:19.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frm_sua_phieu_dat_phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_phieu_dat_phong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frm_sua_phieu_dat_phong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_sua_phieu_dat_phong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frm_sua_phieu_dat_phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:09:08.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frm_thue_dat_phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_thue_dat_phong.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frm_thue_dat_phong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_thue_dat_phong.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frm_thue_dat_phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:59:27.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BUS_dichvu.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_dichvu.cs",
+              "RelativeDocumentMoniker": "Admin\\BUS\\BUS_dichvu.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_dichvu.cs",
+              "RelativeToolTip": "Admin\\BUS\\BUS_dichvu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:06:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frm_Sua_dich_vu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_Sua_dich_vu.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\frm_Sua_dich_vu.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\frm_Sua_dich_vu.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\frm_Sua_dich_vu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:53:10.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "uc_thue_km.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_thue_km.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\UC\\uc_thue_km.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_thue_km.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\UC\\uc_thue_km.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:04:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BUS_cthd.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_cthd.cs",
+              "RelativeDocumentMoniker": "Admin\\BUS\\BUS_cthd.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_cthd.cs",
+              "RelativeToolTip": "Admin\\BUS\\BUS_cthd.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:40:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "uc_thue_kc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_thue_kc.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\UC\\uc_thue_kc.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_thue_kc.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\UC\\uc_thue_kc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:04:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "uc_dat_km.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_dat_km.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\UC\\uc_dat_km.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_dat_km.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\UC\\uc_dat_km.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:03:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "uc_dat_kc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_dat_kc.cs",
+              "RelativeDocumentMoniker": "Admin\\GUI\\UC\\uc_dat_kc.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\GUI\\UC\\uc_dat_kc.cs [Design]",
+              "RelativeToolTip": "Admin\\GUI\\UC\\uc_dat_kc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:03:56.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "rp_luong_nam.rdlc",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_luong_nam.rdlc",
+              "RelativeDocumentMoniker": "Admin\\rp_luong_nam.rdlc",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_luong_nam.rdlc",
+              "RelativeToolTip": "Admin\\rp_luong_nam.rdlc",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-01T06:59:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DataSet_doanhthu_nam.xsd",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\DataSet_doanhthu_nam.xsd",
+              "RelativeDocumentMoniker": "Admin\\DataSet_doanhthu_nam.xsd",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\DataSet_doanhthu_nam.xsd",
+              "RelativeToolTip": "Admin\\DataSet_doanhthu_nam.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-01T06:35:37.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataSet_Tienravao.xsd",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\DataSet_Tienravao.xsd",
+              "RelativeDocumentMoniker": "Admin\\DataSet_Tienravao.xsd",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\DataSet_Tienravao.xsd",
+              "RelativeToolTip": "Admin\\DataSet_Tienravao.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-01T06:49:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BUS_tkhdthue.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_tkhdthue.cs",
+              "RelativeDocumentMoniker": "Admin\\BUS\\BUS_tkhdthue.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\BUS\\BUS_tkhdthue.cs",
+              "RelativeToolTip": "Admin\\BUS\\BUS_tkhdthue.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:51:21.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BUS_thuedatphong.cs",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_thuedatphong.cs",
+              "RelativeDocumentMoniker": "Employee\\BUS\\BUS_thuedatphong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\BUS\\BUS_thuedatphong.cs",
+              "RelativeToolTip": "Employee\\BUS\\BUS_thuedatphong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:46:22.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\App.config",
+              "RelativeDocumentMoniker": "Employee\\App.config",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\App.config",
+              "RelativeToolTip": "Employee\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-01T06:38:37.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frm_thue_dat_phong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frm_thue_dat_phong.cs",
+              "RelativeDocumentMoniker": "Employee\\GUI\\frm_thue_dat_phong.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frm_thue_dat_phong.cs [Design]",
+              "RelativeToolTip": "Employee\\GUI\\frm_thue_dat_phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:32.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmadd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frmadd.cs",
+              "RelativeDocumentMoniker": "Employee\\GUI\\frmadd.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frmadd.cs [Design]",
+              "RelativeToolTip": "Employee\\GUI\\frmadd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:29.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "frm_sua_khach_hang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frm_sua_khach_hang.cs",
+              "RelativeDocumentMoniker": "Employee\\GUI\\frm_sua_khach_hang.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Employee\\GUI\\frm_sua_khach_hang.cs [Design]",
+              "RelativeToolTip": "Employee\\GUI\\frm_sua_khach_hang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "rp_chart_tienravao_kcngay.rdlc",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_chart_tienravao_kcngay.rdlc",
+              "RelativeDocumentMoniker": "Admin\\rp_chart_tienravao_kcngay.rdlc",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\rp_chart_tienravao_kcngay.rdlc",
+              "RelativeToolTip": "Admin\\rp_chart_tienravao_kcngay.rdlc",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-01T06:35:56.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "frm_thongke_luongtienravao_kcngay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\frm_thongke_luongtienravao_kcngay.cs",
+              "RelativeDocumentMoniker": "Admin\\frm_thongke_luongtienravao_kcngay.cs",
+              "ToolTip": "C:\\Users\\dat4a\\OneDrive\\M\u00E1y t\u00EDnh\\demo\\Source code\\Solution_QLKS_WCF\\Admin\\frm_thongke_luongtienravao_kcngay.cs [Design]",
+              "RelativeToolTip": "Admin\\frm_thongke_luongtienravao_kcngay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:35:52.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

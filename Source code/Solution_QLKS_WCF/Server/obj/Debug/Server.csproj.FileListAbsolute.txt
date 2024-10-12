@@ -1,0 +1,7 @@
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\bin\Debug\Server.exe.config
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\bin\Debug\Server.exe
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\bin\Debug\Server.pdb
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\obj\Debug\Server.exe
+C:\Users\dat4a\OneDrive\Máy tính\demo\Source code\Solution_QLKS_WCF\Service\obj\Debug\Server.pdb
